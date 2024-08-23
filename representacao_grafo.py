@@ -102,7 +102,7 @@ def show_info_box():
         turtle.pendown()  # 🖊️ Abaixa a caneta
 
 # Configuração inicial
-turtle.setup(width=800, height=600)  # 🌍 Define o tamanho da janela
+turtle.setup(width=1920, height=1080)  # 🌍 Define o tamanho da janela
 turtle.speed(1)  # 🚶 Define a velocidade de desenho
 turtle.hideturtle()  # 👻 Esconde a tartaruga para uma visualização limpa
 
