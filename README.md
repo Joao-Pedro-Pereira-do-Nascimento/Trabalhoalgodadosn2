@@ -1,6 +1,7 @@
 # Algoritmos Elementares em Grafos
 
 ## 1. Introdução aos Grafos
+![Exemplo de Grafo](https://diegorangelicpc.wordpress.com/wp-content/uploads/2015/09/dijkstra_animation_large.gif)
 
 Grafos são estruturas matemáticas usadas para modelar relações entre objetos. Eles são compostos por dois elementos principais:
 
