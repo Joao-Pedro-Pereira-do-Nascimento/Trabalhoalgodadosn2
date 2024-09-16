@@ -1,7 +1,7 @@
 # Algoritmos Elementares em Grafos
 
 ## 1. Introdução aos Grafos
-![Exemplo de Grafo](https://diegorangelicpc.wordpress.com/wp-content/uploads/2015/09/dijkstra_animation_large.gif)
+![Exemplo de Grafo](https://upload.wikimedia.org/wikipedia/commons/c/c2/Aresta.png)
 
 Grafos são estruturas matemáticas usadas para modelar relações entre objetos. Eles são compostos por dois elementos principais:
 
@@ -13,6 +13,7 @@ Grafos podem ser **direcionados** ou **não direcionados**:
 - **Grafos não direcionados**: As arestas não têm direção, e a conexão entre os vértices é bidirecional.
 
 Além disso, grafos podem ser ponderados, onde cada aresta tem um peso associado, representando um custo, distância, ou qualquer outra métrica.
+![Exemplo Grafos Formasfa]()
 
 ### 1.1 Aplicações de Grafos
 
@@ -21,6 +22,8 @@ Grafos são utilizados em uma ampla variedade de campos e aplicações, incluind
 - **Sistemas de Navegação e GPS**: Para calcular rotas.
 - **Redes Sociais**: Para representar conexões entre usuários.
 - **Bioinformática**: Para modelar redes de interação entre proteínas.
+
+![Exemplo Grafos Formasfa](https://www.infityworks.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fuw4iru0v%2Fproduction%2F464300b74929304a35d9b9c77de22cf31ece57c9-800x800.png&w=1080&q=85)
 
 ### 1.2 Algoritmos em Grafos
 
@@ -35,6 +38,9 @@ Os algoritmos de grafos são fundamentais para resolver problemas como:
 ### 2.1 Visão Geral
 
 O **Algoritmo de Dijkstra** é um algoritmo para encontrar o caminho mais curto entre dois vértices em um grafo ponderado, com a condição de que todas as arestas tenham pesos não negativos. Ele foi desenvolvido por Edsger Dijkstra em 1956 e é amplamente utilizado em sistemas de roteamento e navegação.
+
+![Exemplo Dijkstra](https://user-images.githubusercontent.com/3193712/44612988-db180780-a7e3-11e8-82c9-b1ae318740c6.gif)
+
 
 ### 2.2 Funcionamento
 
